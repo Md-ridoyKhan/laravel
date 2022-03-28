@@ -10,6 +10,7 @@
     
     <h1>hi i am laravel installer</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, alias corporis. Asperiores pariatur fugiat quidem eius nulla vero ipsa numquam quis quisquam nemo modi maiores quae, ad earum ratione voluptatibus.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, alias corporis. Asperiores pariatur fugiat quidem eius nulla vero ipsa numquam quis quisquam nemo modi maiores quae, ad earum ratione voluptatibus.</p>
 
 </body>
 </html>
